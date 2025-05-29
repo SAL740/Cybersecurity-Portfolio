@@ -12,7 +12,7 @@ Command	Description	Example
 (cd)	        Changes the current directory	                                    cd /home/user/Documents
 
 
-(m)kdir     	Creates a new directory                                          	mkdir newfolder
+(mkdir)     	Creates a new directory                                          	mkdir newfolder
 
 
 (rmdir)     	Removes an empty directory	                                       rmdir oldfolder
