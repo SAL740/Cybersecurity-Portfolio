@@ -55,5 +55,9 @@ find      	Searches for files or directories	                                  f
 
 
 grep	      Searches for text within files	                                    grep "root" /etc/passwd
+
+
 sudo	      Executes commands with superuser privileges	                        sudo apt update
+
+
 shutdown	Shuts down or reboots the system	                                    shutdown -r now (reboot immediately)
