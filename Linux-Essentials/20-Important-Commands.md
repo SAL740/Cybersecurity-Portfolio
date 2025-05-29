@@ -6,9 +6,9 @@ Command	Description	Example
 ls         	Lists files and directories in the current directory	            ls -l (detailed list)
 
 
-
-
 pwd	        Prints the current working directory path	                         pwd
+
+
 cd	        Changes the current directory	                                    cd /home/user/Documents
 mkdir     	Creates a new directory                                          	mkdir newfolder
 rmdir     	Removes an empty directory	                                       rmdir oldfolder
