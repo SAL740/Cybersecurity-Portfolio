@@ -1,5 +1,8 @@
 # Top 20 Linux Commands for Cybersecurity
+
 Command	Description	Example
+
+
 ls         	Lists files and directories in the current directory	            ls -l (detailed list)
 pwd	        Prints the current working directory path	                         pwd
 cd	        Changes the current directory	                                    cd /home/user/Documents
