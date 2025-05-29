@@ -60,4 +60,4 @@ Command	Description	Example
 (sudo)	      Executes commands with superuser privilege ---- sudo apt update
 
 
-(shutdown)----	Shuts down or reboots the system shutdown---- -r now (reboot immediately)
+(shutdown)----	Shuts down or reboots the system -----shutdown-r now (reboot immediately)
